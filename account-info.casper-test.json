@@ -1,0 +1,66 @@
+{
+  "owner": {
+    "name": "IceFrosTv2",
+    "description": "DOUBLE TOP MEMBER",
+    "type": [
+      "validator"
+    ],
+    "identity": {
+      "ownership_disclosure_url": "",
+      "casper_association_kyc_url": "",
+      "casper_association_kyc_onchain": ""
+    },
+    "resources": {
+      "code_of_conduct_url": "",
+      "terms_of_service_url": "",
+      "privacy_policy_url": "",
+      "other": [
+        {
+          "name": "About me",
+          "url": "https://github.com/IceFrosTv2"
+        }
+      ]
+    },
+    "website": "https://github.com/IceFrosTv2",
+    "email": "Почта",
+    "branding": {
+      "logo": {
+        "png_256": "https://raw.githubusercontent.com/IceFrosTv2/caspers/main/256.jpg",
+        "png_1024": "https://raw.githubusercontent.com/IceFrosTv2/caspers/main/1024O.jpg",
+        "svg": ""
+      }
+    },
+    "location": {
+      "name": "Moscow",
+      "country": "Russia",
+      "latitude": "",
+      "longitude": ""
+    },
+    "social": {
+      "keybase": "IceFrosTv2",
+      "telegram": "@IceFrosTv2",
+      "twitter": "IceFrosTv2",
+      "github": "IceFrosTv2",
+      "youtube": "",
+      "facebook": "",
+      "medium": "",
+      "reddit": "IceFrosTv2",
+      "wechat": ""
+    }
+  },
+  "nodes": [
+    {
+      "public_key": "0129a40cf2738f2b74606ea25a3ddf8cd88f5f729a1018b929795adab19d44dc90",
+      "description": "Vultr, 24/7",
+      "location": {
+        "name": "Amsterdam",
+        "country": "Holand",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "functionality": [
+        "validator"
+      ]
+    }
+  ]
+}
